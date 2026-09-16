@@ -9,6 +9,12 @@
 
 生成标注：`auto-generated`
 
+在线预览：
+
+- 入口：https://yaoyao1022-design.github.io/Dashboard-auto-generated/
+- 人资驾驶舱：https://yaoyao1022-design.github.io/Dashboard-auto-generated/hr/
+- 产能看板：https://yaoyao1022-design.github.io/Dashboard-auto-generated/capacity/
+
 本地预览（在对应目录执行）：
 
 ```bash
