@@ -1,0 +1,21 @@
+{
+  "name": "service-capacity-board",
+  "private": true,
+  "description": "自动化生成：服务业务产能可视化看板（PRD + LUI + jdl-board-kit）",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@lui/icons": "file:../../项目DEMO/人资风险成本诊断/node_modules/@lui/icons",
+    "@lui/lui-pro": "file:../../项目DEMO/人资风险成本诊断/node_modules/@lui/lui-pro",
+    "@lui/lui-ui": "file:../../项目DEMO/人资风险成本诊断/node_modules/@lui/lui-ui",
+    "jdl-board-kit": "file:../../项目DEMO/看板组件库",
+    "vue": "^2.7.16"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue2": "^2.3.3",
+    "vite": "^5.4.11"
+  }
+}
