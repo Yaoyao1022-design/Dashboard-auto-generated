@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Dashboard 自动化生成 · 预览</title>
+    <style>
+      body {
+        margin: 0;
+        min-height: 100vh;
+        font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
+        background: #f5f7fa;
+        color: #1d2129;
+      }
+      main {
+        max-width: 720px;
+        margin: 0 auto;
+        padding: 48px 24px;
+      }
+      .tag {
+        display: inline-block;
+        padding: 2px 8px;
+        border-radius: 4px;
+        background: #e8f3ff;
+        color: #165dff;
+        font-size: 12px;
+      }
+      h1 {
+        margin: 12px 0 8px;
+        font-size: 28px;
+      }
+      p {
+        margin: 0 0 24px;
+        color: #4e5969;
+      }
+      a.card {
+        display: block;
+        margin-bottom: 12px;
+        padding: 16px 20px;
+        background: #fff;
+        border: 1px solid #e5e6eb;
+        border-radius: 8px;
+        text-decoration: none;
+        color: inherit;
+      }
+      a.card:hover {
+        border-color: #165dff;
+      }
+      a.card strong {
+        display: block;
+        margin-bottom: 4px;
+      }
+      a.card span {
+        color: #86909c;
+        font-size: 13px;
+      }
+    </style>
+  </head>
+  <body>
+    <main>
+      <span class="tag">自动化生成</span>
+      <h1>看板预览</h1>
+      <p>由 PRD + 双组件库规范自动生成，用于对照效果。</p>
+      <a class="card" href="./hr/">
+        <strong>人资风险成本诊断驾驶舱</strong>
+        <span>人力成本分析 / 跑冒滴漏分析</span>
+      </a>
+      <a class="card" href="./capacity/">
+        <strong>服务业务产能可视化</strong>
+        <span>产能总览、趋势与饱和预警</span>
+      </a>
+    </main>
+  </body>
+</html>
