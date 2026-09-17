@@ -5,6 +5,7 @@
 | 目录 | 说明 |
 | --- | --- |
 | `人资风险成本诊断` | 人力经营驾驶舱（人力成本分析 / 跑冒滴漏分析） |
+| `人资首页` | 人资首页（系统公告 / 业务域入口 / 快捷应用） |
 | `服务业务产能可视化` | 服务产能可视化看板 |
 
 生成标注：`auto-generated`
@@ -13,6 +14,7 @@
 
 - 入口：https://yaoyao1022-design.github.io/Dashboard-auto-generated/
 - 人资驾驶舱：https://yaoyao1022-design.github.io/Dashboard-auto-generated/hr/
+- 人资首页：https://yaoyao1022-design.github.io/Dashboard-auto-generated/home/
 - 产能看板：https://yaoyao1022-design.github.io/Dashboard-auto-generated/capacity/
 
 本地预览（在对应目录执行）：
