@@ -1,0 +1,23 @@
+/**
+ * 京东正黑体（数字）
+ * 看板库 --font-number 依赖 JDZhengHT-EN / 京东正黑体；本库不打包字体，由业务页加载。
+ */
+@font-face {
+  font-family: 'JDZhengHT-EN';
+  src:
+    url('https://static.360buyimg.com/bus/fonts/JDZhengHT/JDZhengHT-Regular.woff') format('woff'),
+    url('https://static.360buyimg.com/bus/fonts/JDZhengHT/JDZhengHT-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: '京东正黑体';
+  src:
+    url('https://static.360buyimg.com/bus/fonts/JDZhengHT/JDZhengHT-Regular.woff') format('woff'),
+    url('https://static.360buyimg.com/bus/fonts/JDZhengHT/JDZhengHT-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
